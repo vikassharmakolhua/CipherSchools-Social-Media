@@ -24,7 +24,7 @@
 -  Postman for testing the API (if you want).
  
 ## Quick Setup
-- Clone the project: Download the project by running git clone https://github.com/vikassharmakolhua/CipherSchools-Social-Media.git.
+- Clone the project: Download the project by running git clone https://github.com/vikassharmakolhua/CipherSchools-Social-Media.
 - Install Dependencies: Run npm install to get all the necessary packages.
 - Set Up Environment: Create a file called .env and put in your database connection info and JWT secret key.
 - Start the Server: Run npm start to get the server going. You'll find it at http://localhost:3000.
